@@ -1,6 +1,6 @@
 ## Welcome to my Personal Webpage 
 
-My name is Ruei-Hung (Ray) Chen, I am currently a fourth-year student at University of Toronto studying Applied Mathematics in Finance and Statistics. 
+My name is Ruei-Hung (Ray) Chen, I am currently a fourth-year student at University of Toronto studying Applied Mathematics in Finance and Statistics. I’m particularly interested in using data analytic to solve problems and derive insights from large datasets. I’m currently taking courses on Mathematical Theory of Finance, Data Visualization, Methods of Data Analysis and Financial Risk Management. ’m looking forward to utilize my technical skills in data analysis with combination of my knowledge in risk management to help businessses solve problems and enhance their understanding to their competitors in the industry. Feel free to contact me by email: ray1999chen@gmail.com or by phone: 6479781846.
 
 ### Markdown
 
