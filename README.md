@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my Personal Webpage 
 
-You can use the [editor on GitHub](https://github.com/rhungc/rhungc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Ruei-Hung (Ray) Chen, I am currently a fourth-year student at University of Toronto studying Applied Mathematics in Finance and Statistics. 
 
 ### Markdown
 
