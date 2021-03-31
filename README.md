@@ -16,16 +16,25 @@ Here's the link to my project : https://github.com/rhungc/STA313-Data-Visualizat
 ### Extra Curricular Activities 
 
 #### UTEFA (University of Toronto Engineering Finance Association) 
-VP Finance/ Head Analyst    Sep, 19th 2019 - present 
+VP Finance/ Head Analyst                                    
+Sep, 19th 2019 - present 
 
 - Led a team of 6 to conduct quantitative analysis (DCF, Comparable, Sensitivity) and analyze financial statements to make pitches on investment opportunities.
 - Managed club funding and oversaw all financial matters relative to club functions and activities. 
 - Participated in market update committee to deliver weekly market update to track portfolio and brief on macroeconomic market trends.
 - Published industry reports for the club to assist analysts at UTEFA to understand different industries in a macro-economics point of view.
 
-#### ASPIRE Campus Ambassador 
+#### ASPIRE Program 
+Campus Ambassador
+April 2019 - present 
 
+- Conducted interviews with professionals to gain insight on innovations in real life.
+- Invited as the finalist of the competition to attend ASPIRE Insight Weekend and participated in design thinking workshops.
+- Voulunteered as the Campus Ambassador of Aspire program under Toronto Finance International to promote Toronto’s Financial Services Industry to students in different backgrounds.
 
+#### Recognized Study Group 
+Group Leader 
+Jan 2019 - present 
 
-
-
+- Worked cooperatively with study group participants, Student Study Group Assistants, course instructors and academic skill staffs to support study group goals and enhance meaningful learning.
+- Effectively coordinated regular study sessions for peers by booking locations, communicating session details with participants and preparing agenda for each session to incorporated input from participants.
