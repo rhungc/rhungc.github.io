@@ -1,6 +1,10 @@
 ## Welcome to my Personal Webpage 
 
-My name is Ruei-Hung (Ray) Chen, I am currently a fourth-year student at University of Toronto studying Applied Mathematics in Finance and Statistics. I’m particularly interested in using data analytic to solve problems and derive insights from large datasets. I’m currently taking courses on Mathematical Theory of Finance, Data Visualization, Methods of Data Analysis and Financial Risk Management. I’m looking forward to utilize my technical skills in data analysis and risk management to solve difficult problems. Feel free to contact me by email: ray1999chen@gmail.com or by phone: (647)978-1846.
+Hi ! My name is Ruei-Hung (Ray) Chen, 
+
+I am currently a fourth-year student at University of Toronto studying Applied Mathematics in Finance and Statistics. I’m particularly interested in using data analytic to solve problems and derive insights from large datasets. I’m currently taking courses on Mathematical Theory of Finance, Data Visualization, Methods of Data Analysis and Financial Risk Management. In the future, I look forward to utilize my technical skills in data analysis and risk management to solve difficult problems. 
+
+Feel free to contact me by email: ray1999chen@gmail.com or by phone: (647)978-1846.
 
 ### Past Projects
 
@@ -19,6 +23,7 @@ VP Finance/ Head Analyst    Sep, 19th 2019 - present
 - Participated in market update committee to deliver weekly market update to track portfolio and brief on macroeconomic market trends.
 - Published industry reports for the club to assist analysts at UTEFA to understand different industries in a macro-economics point of view.
 
+#### ASPIRE Campus Ambassador 
 
 
 
