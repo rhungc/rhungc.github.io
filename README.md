@@ -6,6 +6,9 @@ I am currently a fourth-year student at University of Toronto studying Applied M
 
 Feel free to contact me by email: ray1999chen@gmail.com or by phone: (647)978-1846.
 
+### Skills 
+
+
 ### Past Projects
 
 #### Data Visulization Project-1 
