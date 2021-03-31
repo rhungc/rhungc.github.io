@@ -9,4 +9,18 @@ In this project, I used R programming language to visualize the data on Hollywoo
 
 Here's the link to my project : https://github.com/rhungc/STA313-Data-Visualization-A1 
 
+### Extra Curricular Activities 
+
+#### UTEFA (University of Toronto Engineering Finance Association) 
+VP Finance/ Head Analyst    Sep, 19th 2019 - present 
+
+- Led a team of 6 to conduct quantitative analysis (DCF, Comparable, Sensitivity) and analyze financial statements to make pitches on investment opportunities.
+- Managed club funding and oversaw all financial matters relative to club functions and activities. 
+- Participated in market update committee to deliver weekly market update to track portfolio and brief on macroeconomic market trends.
+- Published industry reports for the club to assist analysts at UTEFA to understand different industries in a macro-economics point of view.
+
+
+
+
+
 
