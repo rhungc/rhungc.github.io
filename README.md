@@ -7,14 +7,17 @@ I am currently a fourth-year student at University of Toronto studying Applied M
 Feel free to contact me by email: ray1999chen@gmail.com or by phone: (647)978-1846.
 
 ### Skills 
+
 #### Technical: 
 - R (tidyverse, dplyr, ggplot2 ) 
 - Python 
 - Microsoft Suite
+
 #### Hobbies: 
 - Violin 
   - Violinist at Hart House Orchestra.  
   - Teaches violin as a side hustle. 
+
 - Enjoy jogging and playing basketball 
   - Participated in Toronto Half Marathon 
 
