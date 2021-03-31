@@ -18,7 +18,7 @@ Feel free to contact me by email: ray1999chen@gmail.com or by phone: (647)978-18
   - Violinist at Hart House Orchestra.  
   - Teaches violin as a side hustle. 
 
-- Enjoy jogging and playing basketball 
+- Jogging and playing basketball 
   - Participated in Toronto Half Marathon 
 
 ### Past Projects
