@@ -29,6 +29,13 @@ In this project, I used R programming language to visualize the data on Hollywoo
 
 Here's the link to my project : [Toronto Movies](https://github.com/rhungc/STA313-Data-Visualization-A1)
 
+#### Data Visulization Project-2 (Bike Theft) 
+In this project, my project partner, Zhenyu Xuan, and I explore the bicycle theft data provided by Toronto Police Service. We created a data driven article that visualize some of the interesting statsitcs from this dataset and import some additional geographical data to help and assist us. First, we take advantage of the geometry data from the dataset and plot the thefts on the map. The visualization of thefts on top of the map of Greater Toronoto Area makes it very easy to spot the neighborhoods that experience the most severe bicycle theft. 
+
+Furthermore, we import some other interesting datasets such as bicycle routes and bicycle parking lots in Toronto. We try to see if there's any relationship between those locations and bicycle theft. 
+
+For more information about the project, see [Bike Theft](https://github.com/rhungc/Bicycle_Theft_Article)
+
 ### Extra Curricular Activities 
 
 #### UTEFA (University of Toronto Engineering Finance Association) 
