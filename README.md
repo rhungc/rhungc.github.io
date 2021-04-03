@@ -3,7 +3,7 @@
 
 Hi ! My name is Ruei-Hung (Ray) Chen, 
 
-I am currently a fourth-year student at University of Toronto studying Applied Mathematics in Finance and Statistics. I’m particularly interested in using data analytic to solve problems and derive insights from large datasets. I’m currently taking courses on Mathematical Theory of Finance, Data Visualization, Methods of Data Analysis and Financial Risk Management. In the future, I look forward to utilize my technical skills in data analysis and risk management to solve difficult problems. 
+I am currently a fourth-year student at University of Toronto studying Applied Mathematics in Finance and Statistics. I’m particularly interested in using data analytic to solve problems and derive insights from large datasets. I’m currently taking courses on Mathematical Theory of Finance, Data Visualization, Methods of Data Analysis and Financial Risk Management. In the future, I look forward to utilize my technical skills in data analysis and risk management to solve interesting problems. 
 
 Feel free to contact me by email: [ray1999chen@gmail.com](ray1999chen@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/ray99chen/).
 
@@ -25,16 +25,16 @@ Feel free to contact me by email: [ray1999chen@gmail.com](ray1999chen@gmail.com)
 ### Past Projects
 
 #### Data Visulization Project-1 
-In this project, I used R programming language to visualize the data on Hollywood movies made in Toronto Canada. I focused on the relationship between currency rate between CAD and USD from 1990 to 2020 and the number of movies made thoroughout the same period. I design the visulization using a bar gragh representing the count of the movies made overlay with a line graph of the exchange rate between the two currencies. In addition, I used binary colour hues to distinguish the years United States experience recessions. 
+In this project, I used R programming language to visualize the data on Hollywood movies made in Toronto Canada. I focused on the relationship between currency rate between CAD and USD (1990 - 2020) and the number of movies made thoroughout the same period. The data I explore was from IMBD website and exchange rate was downloaded from (https://ca.investing.com/currencies/cad-usd-historical-data)
 
 Here's the link to my project : [Toronto Movies](https://github.com/rhungc/STA313-Data-Visualization-A1)
 
 #### Data Visulization Project-2 (Bike Theft) 
-In this project, my project partner, Zhenyu Xuan, and I explore the bicycle theft data provided by Toronto Police Service. We created a data driven article that visualize some of the interesting statsitcs from this dataset and import additional geographical data to help us understand the data better. 
+In this project, my project partner, Zhenyu Xuan, and I explore the bicycle theft data provided by Toronto Police Service. We created a data driven article that visualize some of the interesting statsitcs from this dataset and import additional geographical data to help us understand the data better. Link to the data: (https://open.toronto.ca/dataset/bicycle-thefts/)
 
-First, we take advantage of the geometry data from the dataset and plot the thefts on the map. The visualization of thefts on top of the map of Greater Toronoto Area makes it very easy to spot the neighborhoods that experience the most severe bicycle theft. Furthermore, we import some other interesting datasets such as bicycle routes and bicycle parking lots in Toronto. We try to see if there's any relationship between those locations and bicycle theft. 
+In our project, we take advantage of the location attributes from the dataset and plot the thefts on the map. The visualization of geo-spatial data make it very clear to see the density of the theft in GTA neighberhoods. Furthermore, we import other interesting datasets such as bicycle routes and bicycle parking lots in Toronto. We try to see if there's any relationship between those locations and bicycle theft density. 
 
-For more information about the project, see [Bike Theft](https://github.com/rhungc/Bicycle_Theft_Article)
+For more information about the project, see [Bike Theft](https://github.com/rhungc/Bicycle_Theft_Article).
 
 ### Extra Curricular Activities 
 
