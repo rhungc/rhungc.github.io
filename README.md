@@ -10,7 +10,7 @@ Feel free to contact me by email: [ray1999chen@gmail.com](ray1999chen@gmail.com)
 ### Skills 
 
 #### Technical: 
-- R (tidyverse, dplyr, ggplot2 ) 
+- R (tidyverse, dplyr, ggplot2, Shiny) 
 - Python 
 - Microsoft Suite
 
