@@ -3,7 +3,7 @@
 
 Hi ! My name is Ruei-Hung (Ray) Chen, 
 
-I am currently a fourth-year student at University of Toronto studying Applied Mathematics in Finance and Statistics. I’m particularly interested in using data analytic to solve problems and derive insights from large datasets. I’m currently taking courses on Mathematical Theory of Finance, Data Visualization, Methods of Data Analysis and Financial Risk Management. In the future, I look forward to utilize my technical skills in data analysis and risk management to solve interesting problems. 
+I recently just graduated from the University of Toronto studying Applied Mathematics in Finance and Statistics. I’m particularly interested in using data analytic to solve difficult problems and derive insights from large datasets to exploit investment oppertunities. Currently, I am actively looking for a full time job and is hoping to work at an innovative environment that can challenge my problem solving and creative thinking every single day!
 
 Feel free to contact me by email: [ray1999chen@gmail.com](ray1999chen@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/ray99chen/).
 
@@ -30,7 +30,7 @@ As a final project to a data visualization course, me along with 3 other teammat
 To access the article, see [Data Driven Article](https://github.com/Andrew-Chew/STA313W21-Project.git)
 
 #### Data Visulization Project-2 (Bike Theft) 
-In this project, my project partner, Zhenyu Xuan, and I explore the bicycle theft data provided by Toronto Police Service. We created a data driven article that visualize some of the interesting statsitcs from this dataset and import additional geographical data to help us understand the data better. Link to the data: (https://open.toronto.ca/dataset/bicycle-thefts/)
+In this project, my project partner, Zhenyu Xuan, and I explore the bicycle theft data provided by Toronto Police Service. We created a data driven article that visualize some of the interesting statsitcs from this dataset and import additional geographical data to help us understand the data better. Link to the data: [](https://open.toronto.ca/dataset/bicycle-thefts/)
 
 In our project, we take advantage of the location attributes from the dataset and plot the thefts on the map. The visualization of geo-spatial data make it very clear to see the density of the theft in GTA neighberhoods. Furthermore, we import other interesting datasets such as bicycle routes and bicycle parking lots in Toronto. We try to see if there's any relationship between those locations and bicycle theft density. 
 
@@ -40,7 +40,7 @@ For more information about the project, see [Bike Theft](https://github.com/rhun
 
 #### UTEFA (University of Toronto Engineering Finance Association) 
 VP Finance/ Head Analyst                                    
-Sep, 19th 2019 - present 
+Sep, 19th 2019 - April 2021 
 
 - Led a team of 6 to conduct quantitative analysis (DCF, Comparable, Sensitivity) and analyze financial statements to make pitches on investment opportunities.
 - Managed club funding and oversaw all financial matters relative to club functions and activities. 
@@ -59,7 +59,7 @@ April 2019 - present
 
 #### Recognized Study Group 
 Group Leader 
-Jan 2019 - present 
+Jan 2019 - April 2021
 
 - Worked cooperatively with study group participants, Student Study Group Assistants, course instructors and academic skill staffs to support study group goals and enhance meaningful learning.
 - Effectively coordinated regular study sessions for peers by booking locations, communicating session details with participants and preparing agenda for each session to incorporated input from participants.
