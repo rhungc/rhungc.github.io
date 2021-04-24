@@ -15,7 +15,7 @@ Feel free to contact me by email: [ray1999chen@gmail.com](ray1999chen@gmail.com)
 - Microsoft Suite
 
 #### Hobbies: 
-- Violin <img >
+- Violin 
   - Violinist at Hart House Orchestra.  
   - Teaches violin as a side hustle. 
 
@@ -24,10 +24,10 @@ Feel free to contact me by email: [ray1999chen@gmail.com](ray1999chen@gmail.com)
 
 ### Past Projects
 
-#### Data Visulization Project-1 
-In this project, I used R programming language to visualize the data on Hollywood movies made in Toronto Canada. I focused on the relationship between currency rate between CAD and USD (1990 - 2020) and the number of movies made thoroughout the same period. The data I explore was from IMBD website and exchange rate was downloaded from (https://ca.investing.com/currencies/cad-usd-historical-data)
+#### Data Driven Article - Daily CO<sub>2</sub> Emission from Transportation.
+As a final project to a data visualization course, me along with 3 other teammates worked cohesively to disign and implemented a data driven article with topic related to "Daily CO<sub>2</sub> Emission from Transportation". Within this article, our team successfully adapted the ShinyApp Library in R and used it to design several interactive activities. The project aimed to educate the readers with statistical facts about the CO<sub>2</sub> emission around the world and show them visually what can be done in their daily life to reduce their CO<sub>2</sub> contribution to the world. 
 
-Here's the link to my project : [Toronto Movies](https://github.com/rhungc/STA313-Data-Visualization-A1)
+To access the article, see [Data Driven Article](https://github.com/Andrew-Chew/STA313W21-Project.git)
 
 #### Data Visulization Project-2 (Bike Theft) 
 In this project, my project partner, Zhenyu Xuan, and I explore the bicycle theft data provided by Toronto Police Service. We created a data driven article that visualize some of the interesting statsitcs from this dataset and import additional geographical data to help us understand the data better. Link to the data: (https://open.toronto.ca/dataset/bicycle-thefts/)
