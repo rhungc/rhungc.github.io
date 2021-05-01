@@ -29,12 +29,12 @@ As a final project to a data visualization course, me along with 3 other teammat
 
 To access the article, see [Data Driven Article](https://github.com/Andrew-Chew/STA313W21-Project.git)
 
-#### Data Visulization Project-2 (Bike Theft) 
-In this project, my project partner, Zhenyu Xuan, and I explore the bicycle theft data provided by Toronto Police Service. We created a data driven article that visualize some of the interesting statsitcs from this dataset and import additional geographical data to help us understand the data better. Link to the data: [](https://open.toronto.ca/dataset/bicycle-thefts/)
+#### Yield Curve Construction Project (APM466)  
+In this project, I collected over 30 Candian government bonds, each with different time to maturity. By collecting the closing price data of those government bonds for over a month, I was able to calculate yield to maturity, spot rate and future rate of each bond. Using these information, I constructed yield curves using bootstrapping and interpolation techniques. The project demonstrate my understanding to general fixed income securities and showcase my technical skills to construct yield curves out of real time bond information. 
 
-In our project, we take advantage of the location attributes from the dataset and plot the thefts on the map. The visualization of geo-spatial data make it very clear to see the density of the theft in GTA neighberhoods. Furthermore, we import other interesting datasets such as bicycle routes and bicycle parking lots in Toronto. We try to see if there's any relationship between those locations and bicycle theft density. 
+To access my writeup to this aritcle, follow [APM466_Assignment_1_writeup](https://github.com/rhungc/APM466-Projects-and-Assignments.git). 
 
-For more information about the project, see [Bike Theft](https://github.com/rhungc/Bicycle_Theft_Article).
+
 
 ### Extra Curricular Activities 
 
